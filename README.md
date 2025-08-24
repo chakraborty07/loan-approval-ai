@@ -1,9 +1,3 @@
-Got it 👍
-The issue is happening because in your `README.md` the **project structure code block** isn’t closed properly with triple backticks (\`\`\`) — so GitHub is treating everything after it as plain text.
-
-Let me give you the **perfectly structured version** 👇
-Copy this **exactly as it is** and paste into your `README.md` (don’t change spacing or backticks):
-
 ````markdown
 # 💳 Loan Approval Prediction AI  
 
